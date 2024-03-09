@@ -138,10 +138,13 @@ p {
 
 .featured-products {
 
-    max-width: 1500px;
+    /* max-width: 1500px; */
     margin: auto;
     padding-left: 30px;
     padding-right: 30px;
+    height: 300px;
+    width: 100px;
+    display: inline;
 }
 /* All small images being resized */
 .small-img{
