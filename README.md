@@ -1,3 +1,7 @@
 # Hair-By-Evantasia-E-Commerce-Website
-Created a website to assistant client to have a broader reach for the desired target market,
-due to COVID-19 implications. The website was centered around hair products and hair essentials.
+Created a website to assist client in having a broader reach for the desired target market,
+due to COVID-19 implications. The website is centered around hair products and hair essentials.
+
+NB: Pending functionality fixes and further CSS amendments.
+
+Netlify: https://teal-beijinho-26622d.netlify.app
